@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
-        'name' => 'upstatement/timber-starter-theme',
-        'pretty_version' => '2.0.0',
-        'version' => '2.0.0.0',
-        'reference' => null,
+        'name' => 'upstatement/canberra-modern-theme',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '91dae83796c421911248cd4f3ebaad2ed4118f55',
         'type' => 'wordpress-theme',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -107,9 +107,9 @@
             'dev_requirement' => true,
         ),
         'nikic/php-parser' => array(
-            'pretty_version' => 'v5.0.1',
-            'version' => '5.0.1.0',
-            'reference' => '2218c2252c874a4624ab2f613d86ac32d227bc69',
+            'pretty_version' => 'v5.0.2',
+            'version' => '5.0.2.0',
+            'reference' => '139676794dc1e9231bf7bcd123cfc0c99182cb13',
             'type' => 'library',
             'install_path' => __DIR__ . '/../nikic/php-parser',
             'aliases' => array(),
@@ -397,7 +397,7 @@
         'timber/timber' => array(
             'pretty_version' => '2.x-dev',
             'version' => '2.9999999.9999999.9999999-dev',
-            'reference' => '02ba68e65d4ed255b6a66e549aac500de70b71a5',
+            'reference' => 'be360651eedad4e99a59d185ecaf04d7ab6a3b11',
             'type' => 'library',
             'install_path' => __DIR__ . '/../timber/timber',
             'aliases' => array(),
@@ -412,10 +412,10 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
-        'upstatement/timber-starter-theme' => array(
-            'pretty_version' => '2.0.0',
-            'version' => '2.0.0.0',
-            'reference' => null,
+        'upstatement/canberra-modern-theme' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '91dae83796c421911248cd4f3ebaad2ed4118f55',
             'type' => 'wordpress-theme',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
