@@ -597,17 +597,17 @@
         },
         {
             "name": "nikic/php-parser",
-            "version": "v5.0.1",
-            "version_normalized": "5.0.1.0",
+            "version": "v5.0.2",
+            "version_normalized": "5.0.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nikic/PHP-Parser.git",
-                "reference": "2218c2252c874a4624ab2f613d86ac32d227bc69"
+                "reference": "139676794dc1e9231bf7bcd123cfc0c99182cb13"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/2218c2252c874a4624ab2f613d86ac32d227bc69",
-                "reference": "2218c2252c874a4624ab2f613d86ac32d227bc69",
+                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/139676794dc1e9231bf7bcd123cfc0c99182cb13",
+                "reference": "139676794dc1e9231bf7bcd123cfc0c99182cb13",
                 "shasum": ""
             },
             "require": {
@@ -620,7 +620,7 @@
                 "ircmaxell/php-yacc": "^0.0.7",
                 "phpunit/phpunit": "^7.0 || ^8.0 || ^9.0"
             },
-            "time": "2024-02-21T19:24:10+00:00",
+            "time": "2024-03-05T20:51:40+00:00",
             "bin": [
                 "bin/php-parse"
             ],
@@ -652,7 +652,7 @@
             ],
             "support": {
                 "issues": "https://github.com/nikic/PHP-Parser/issues",
-                "source": "https://github.com/nikic/PHP-Parser/tree/v5.0.1"
+                "source": "https://github.com/nikic/PHP-Parser/tree/v5.0.2"
             },
             "install-path": "../nikic/php-parser"
         },
@@ -2732,12 +2732,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/timber/timber.git",
-                "reference": "02ba68e65d4ed255b6a66e549aac500de70b71a5"
+                "reference": "be360651eedad4e99a59d185ecaf04d7ab6a3b11"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/timber/timber/zipball/02ba68e65d4ed255b6a66e549aac500de70b71a5",
-                "reference": "02ba68e65d4ed255b6a66e549aac500de70b71a5",
+                "url": "https://api.github.com/repos/timber/timber/zipball/be360651eedad4e99a59d185ecaf04d7ab6a3b11",
+                "reference": "be360651eedad4e99a59d185ecaf04d7ab6a3b11",
                 "shasum": ""
             },
             "require": {
@@ -2766,7 +2766,7 @@
                 "php-coveralls/php-coveralls": "^2.0 for code coverage",
                 "twig/cache-extra": "For using the cache tag in Twig"
             },
-            "time": "2024-03-01T09:56:01+00:00",
+            "time": "2024-03-11T08:53:03+00:00",
             "default-branch": true,
             "type": "library",
             "installation-source": "dist",
