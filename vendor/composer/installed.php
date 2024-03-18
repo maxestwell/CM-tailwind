@@ -3,7 +3,7 @@
         'name' => 'upstatement/canberra-modern-theme',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '91dae83796c421911248cd4f3ebaad2ed4118f55',
+        'reference' => '7fafb0839c9ef68503e4e6af8bb937507d8f7bda',
         'type' => 'wordpress-theme',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -415,7 +415,7 @@
         'upstatement/canberra-modern-theme' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '91dae83796c421911248cd4f3ebaad2ed4118f55',
+            'reference' => '7fafb0839c9ef68503e4e6af8bb937507d8f7bda',
             'type' => 'wordpress-theme',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
