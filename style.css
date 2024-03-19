@@ -542,8 +542,21 @@ video {
 .block {
   display: block;
 }
+.flex {
+  display: flex;
+}
+.w-96 {
+  width: 24rem;
+}
+.w-max {
+  width: -moz-max-content;
+  width: max-content;
+}
 .resize {
   resize: both;
+}
+.place-content-around {
+  place-content: space-around;
 }
 .bg-debug {
   --tw-bg-opacity: 1;
@@ -556,9 +569,23 @@ video {
   padding-top: 2rem;
   padding-bottom: 2rem;
 }
+.py-3 {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
+.py-10 {
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
 .pb-4 {
   padding-bottom: 1rem;
 }
 .text-center {
   text-align: center;
+}
+.first\:flex:first-child {
+  display: flex;
+}
+.first\:place-content-around:first-child {
+  place-content: space-around;
 }
