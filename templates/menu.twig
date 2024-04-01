@@ -1,7 +1,7 @@
 {# MENU COMES FROM menu.twig #}
 
 {% if menu %}
-	<ul class="first:flex first:place-content-around">
+	<ul class="first:flex first:place-content-around hover:*:even:opacity-0">
 		{% for item in items %}
 			<li class="{{ item.classes | join(' ') }}">
 				<a target="{{ item.target }}" href="{{ item.link }}">{{ item.title }}</a>

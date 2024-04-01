@@ -542,21 +542,12 @@ video {
 .block {
   display: block;
 }
-.flex {
-  display: flex;
-}
-.w-96 {
-  width: 24rem;
-}
 .w-max {
   width: -moz-max-content;
   width: max-content;
 }
 .resize {
   resize: both;
-}
-.place-content-around {
-  place-content: space-around;
 }
 .bg-debug {
   --tw-bg-opacity: 1;
@@ -565,17 +556,13 @@ video {
 .p-8 {
   padding: 2rem;
 }
-.py-8 {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-}
-.py-3 {
-  padding-top: 0.75rem;
-  padding-bottom: 0.75rem;
-}
 .py-10 {
   padding-top: 2.5rem;
   padding-bottom: 2.5rem;
+}
+.py-8 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
 .pb-4 {
   padding-bottom: 1rem;
@@ -583,9 +570,47 @@ video {
 .text-center {
   text-align: center;
 }
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+.text-red {
+  --tw-text-opacity: 1;
+  color: rgb(255 0 0 / var(--tw-text-opacity));
+}
+.opacity-20 {
+  opacity: 0.2;
+}
+.\*\:border > * {
+  border-width: 1px;
+}
+.\*\:opacity-20 > * {
+  opacity: 0.2;
+}
 .first\:flex:first-child {
   display: flex;
 }
 .first\:place-content-around:first-child {
   place-content: space-around;
+}
+.even\:opacity-20:nth-child(even) {
+  opacity: 0.2;
+}
+.\*\:even\:border:nth-child(even) > * {
+  border-width: 1px;
+}
+.\*\:even\:opacity-20:nth-child(even) > * {
+  opacity: 0.2;
+}
+.hover\:even\:opacity-100:nth-child(even):hover {
+  opacity: 1;
+}
+.hover\:\*\:even\:border:nth-child(even) > *:hover {
+  border-width: 1px;
+}
+.hover\:\*\:even\:opacity-100:nth-child(even) > *:hover {
+  opacity: 1;
+}
+.hover\:\*\:even\:opacity-0:nth-child(even) > *:hover {
+  opacity: 0;
 }
