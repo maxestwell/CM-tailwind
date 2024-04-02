@@ -542,12 +542,26 @@ video {
 .block {
   display: block;
 }
-.w-max {
-  width: -moz-max-content;
-  width: max-content;
+.grid {
+  display: grid;
+}
+.w-full {
+  width: 100%;
+}
+.max-w-3xl {
+  max-width: 48rem;
 }
 .resize {
   resize: both;
+}
+.place-content-center {
+  place-content: center;
+}
+.justify-center {
+  justify-content: center;
+}
+.justify-self-center {
+  justify-self: center;
 }
 .bg-debug {
   --tw-bg-opacity: 1;
