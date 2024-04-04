@@ -22,6 +22,7 @@ module.exports = {
       fontFamily: {
         //font files are declared in html-header.twig file
         sans: ['"Inria Sans"', "sans-serif"],
+        custom: ["Courier New", "monospace"],
       },
     },
   },

@@ -5,7 +5,7 @@
 	<ul class="first:flex first:place-content-around *:even:invisible li:a:visible text-center pt-1 pb-1">
 		{% for item in items %}
 			<li class="{{ item.classes | join(' ') }} group">
-				<a class="group-hover:visible hover:border-b border-black" target="{{ item.target }}" href="{{ item.link }}">{{ item.title }}</a>
+				<a class="group-hover:visible hover:border-b border-gray-900" target="{{ item.target }}" href="{{ item.link }}">{{ item.title }}</a>
 				{% include "menu.twig" with {'items': item.children} %}
 			</li>
 		{% endfor %}

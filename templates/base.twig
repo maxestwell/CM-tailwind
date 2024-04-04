@@ -9,10 +9,10 @@
 <header class="header">
 	{% block header %}
 		<div class="wrapper">
-			<h1 class="hdr-logo text-center font-bold font-5xl" role="banner">
-				<a class="hdr-logo-link font-5xl" href="{{site.url}}" rel="home">{{site.name}}</a>
+			<h1 class="hdr-logo text-center py-3" role="banner">
+				<a class="hdr-logo-link text-2xl" href="{{site.url}}" rel="home">{{site.name}}</a>
 			</h1>
-			<nav id="nav-main" class="nav-main  py-8" role="navigation">
+			<nav id="nav-main" class="nav-main  py-5 border-t border-black" role="navigation">
 				{% include "menu.twig" with {'items': menu.get_items} %}
 			</nav>
 			<!-- #nav -->
