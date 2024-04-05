@@ -539,9 +539,12 @@ video {
     max-width: 1536px;
   }
 }
-.mx-10 {
-  margin-left: 2.5rem;
-  margin-right: 2.5rem;
+.mx-20 {
+  margin-left: 5rem;
+  margin-right: 5rem;
+}
+.mb-10 {
+  margin-bottom: 2.5rem;
 }
 .mb-20 {
   margin-bottom: 5rem;
@@ -620,12 +623,6 @@ video {
   font-size: 3rem;
   line-height: 1;
 }
-.font-medium {
-  font-weight: 500;
-}
-.font-semibold {
-  font-weight: 600;
-}
 .font-\[550\] {
   font-weight: 550;
 }
@@ -640,6 +637,9 @@ video {
 }
 .hover\:border-b:hover {
   border-bottom-width: 1px;
+}
+.hover\:underline:hover {
+  text-decoration-line: underline;
 }
 .group:hover .group-hover\:visible {
   visibility: visible;
