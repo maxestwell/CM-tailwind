@@ -16,13 +16,14 @@ module.exports = {
         primary: "#3490dc", // Add your custom primary color
         secondary: "#6574cd", // Add your custom secondary color
         debug: "#FFCA28", // Add your custom debug color
-        blue: "#0000FF" // Just so you can see how this is powerful
+        blue: "#0000FF", // Just so you can see how this is powerful
         // Add more custom colors as needed
       },
       fontFamily: {
         //font files are declared in html-header.twig file
         sans: ['"Inria Sans"', "sans-serif"],
         custom: ["Courier New", "monospace"],
+        // area_variable: ["area-variable", "sans-serif"],
       },
     },
   },
