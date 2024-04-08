@@ -16,11 +16,11 @@
             {# Previous #}
             {% if posts.pagination.prev %}
                 <li class="prev btn paginationBTN">
-                    <a href="{{ posts.pagination.prev.link }}" class="hover:underline">Previous</a>  |  
+                    <a href="{{ posts.pagination.prev.link }}" class="hover:underline">&lt;</a>  |  
                 </li>
             {% else %}
                 <li class="prev btn disabled paginationBTN">
-                    <button disabled class="hover:underline">Previous</button>  |  
+                    <button disabled class="hover:underline">&lt;</button>  |  
                 </li>
             {% endif %}
 
@@ -40,11 +40,11 @@
             {# Next #}
             {% if posts.pagination.next %}
                 <li class="next btn paginationBTN">
-                    <a href="{{ posts.pagination.next.link }}" class="hover:underline">Next</a>  |  
+                    <a href="{{ posts.pagination.next.link }}" class="hover:underline">&gt;</a>  |  
                 </li>
             {% else %}
                 <li class="next btn disabled paginationBTN">
-                    <button disabled class="hover:underline">Next</button>  |  
+                    <button disabled class="hover:underline">&gt;</button>  |  
                 </li>
             {% endif %}
 
