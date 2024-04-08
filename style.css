@@ -539,6 +539,9 @@ video {
     max-width: 1536px;
   }
 }
+.h2{
+  font-weight: 700;
+}
 .mx-20 {
   margin-left: 5rem;
   margin-right: 5rem;
@@ -549,6 +552,10 @@ video {
 }
 .mb-20 {
   margin-bottom: 5rem;
+}
+.my-3{
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem;
 }
 .block {
   display: block;
@@ -687,4 +694,11 @@ video {
 }
 .group:hover .group-hover\:visible {
   visibility: visible;
+}
+.pagination{
+  list-style: none;
+  text-align: center;
+}
+.paginationBTN{
+  display: inline-block;
 }
