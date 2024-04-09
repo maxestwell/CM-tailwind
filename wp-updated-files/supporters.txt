@@ -1,0 +1,95 @@
+<div class="supporters">
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Tim Ross</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Tim ‘Rosso’ Ross is Canberra Modern's Patron and one of the Australian entertainment industry’s true multi-talented performers.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>He’s had unprecedented success in stand-up comedy, radio, acting, writing, presenting, music and more recently as a social commentator.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Tim is a modernist junkie and performs stand up in modernist venues throughout the world.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Tim joins Canberra Modern in 2019 with a performance of his acclaimed show - Design Nation </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.timross.com.au/" target="_blank" rel="noreferrer noopener">FIND OUT MORE</a></p>
+<!-- /wp:paragraph -->
+</div>
+
+<div class="supporters">
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Darren Bradley - @modarchitecture</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Award winning photographer, published author, Instagram star, modernist junkie and Canberra aficionado.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Darren came to photography through a passion for modern architecture<em>. &nbsp;</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>"I love to be around modern architecture. To me, it’s the most interesting medium for artistic expression in that it must nearly always serve a function, solve a specific problem, and speak to the context of its environment" </em></p>
+<!-- /wp:paragraph -->
+</div>
+
+<div class="supporters">
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Miss Cherrybomb</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A devotee to vintage glamour, Miss Cherrybomb spends her life creating, cultivating and sharing her experiences in life, glamour and style.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Canberra Modern's resident Pinup can be found at the Modernist Market for demonstrations and a best dressed competition.  </p>
+<!-- /wp:paragraph -->
+</div>
+
+<div class="supporters">
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Trevor Dickinson - Artist</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Through his engaging, quirky and often tongue in cheek art and design, Trevor Dickinson of Newcastle Productions has placed our humble Canberra bus shelters on the national stage. Join Trevor for a tour of Canberra's bus shelters with some unexpected surprises along the way, and later that evening as keynote for the Modernist Dinner  </p>
+<!-- /wp:paragraph -->
+</div>
+
+<div class="supporters">
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Phillip Jones - The Martini Whisperer</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For over a dozen years, Phillip worked as a fine dining manager around the world, a professional event organiser and social entrepreneur.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Over the last few years he has turned his passion for Martini's into a thriving business and he is a authority on the subject.  Phillip recently gave a TEDX talk on the history of the martini and designed the 'centini' for the centenary of Canberra in 2013. </p>
+<!-- /wp:paragraph -->
+</div>
+
+<div class="supporters">
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Catriona Quinn</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Catriona Quinn is a design historian whose broad expertise in all aspects of 20th century domestic interior design, decoration and furnishings has made her one of the most respected in her field.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+</div>

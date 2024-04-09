@@ -1,0 +1,81 @@
+<div class="about">
+<!-- wp:heading {"level":4} -->
+<h4>What's so special about Canberra?</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://img1.wsimg.com/isteam/ip/713b0fb1-3749-4859-97e2-b7cf5cfb344b/fddd9995-170d-4cce-a82a-e7057a668372.png/:/cr=t:0%25,l:0%25,w:87.33%25,h:100%25/rs=w:730,h:730,cg:true" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Canberra is a young city with a rich architectural legacy. With major boom periods in the 1920s and again from the 1950s-1980s – the architectural aesthetic of the city is eclectic, but deliberately cohesive. &nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The mid-late twentieth century period of development in Canberra, specifically during the National Capital Development Commission’s (NCDC) oversight (1958-1989) has not been widely celebrated or recognised by the Canberra community.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Major developments not only in residential, but civic and community buildings saw the frequent involvement of architects now considered pioneers of the modernist movement, and the construction of a key collection of iconic and unique mid-century buildings in Australia. &nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Many of these structures, which make an irreplaceable contribution to Canberra, have already been lost and many face risk of being lost in the near future. &nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So we at Canberra Modern are here to help by engaging Canberra and Australia with their contemporary National Capital.&nbsp;</p>
+<!-- /wp:paragraph -->
+</div>
+
+<div class="about">
+<!-- wp:heading {"level":4} -->
+<h4>Who are Canberra Modern?</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://img1.wsimg.com/isteam/ip/713b0fb1-3749-4859-97e2-b7cf5cfb344b/Canberra%20Modernist%20Dinner%202019%20WEB-5.jpg/:/cr=t:0%25,l:24.03%25,w:56.48%25,h:84.75%25/rs=w:730,h:730,cg:true,m" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Canberra Modern is a passionate team of heritage and design practitioners who have a genuine love for the city in which they live.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Edwina Jans</strong>&nbsp;is an archaeologist, museums and cultural heritage expert who works with the ACT Government. Edwina specialises in education, communication and innovative engagement for heritage places.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Amy Jarvis</strong>&nbsp;is a heritage management and interpretation specialist who works at ACT Historic Places. Amy was awarded a Churchill Fellowship in 2018/9 to investigate advocacy and engagement models around mid-century architecture in the USA.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Rachel Jackson</strong>&nbsp;is an interior designer and heritage management expert who is Principal at GML Heritage. Rachel is a specialist in cultural landscape assessment and in heritage and sustainability. Rachel is a 2022/23 Getty Conservation Institute Scholar.</p>
+<!-- /wp:paragraph -->
+</div>
+
+<div class="about">
+<!-- wp:heading {"level":4} -->
+<h4>Our Patron - Tim Ross</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://isteam.wsimg.com/ip/713b0fb1-3749-4859-97e2-b7cf5cfb344b/78fa3853-d045-4fd5-b95f-d4e4f6b9c63d.jpg/:/rs=w:730,h:730,cg:true,m/cr=w:730,h:730" alt=""/><figcaption>Tim Ross</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>TV and radio host, comedian, author and self-confessed ‘Design Nerd’, Tim ‘Rosso’ Ross has always had a passion for architecture and design has advocated in this space for many years, often in new, engaging and hilarious ways.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A long-time supporter of Canberra Modern, having performed several of his sell out shows within the festival, Tim also passionately supports important issues in Australian architecture and design and speaks nationally on preserving Australia’s important architectural character and the legacy of the many great designers of our nation.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In 2018, Tim was awarded the National Trust Heritage Award for Advocacy and in 2019, the National President’s Prize from the Australian Institute of Architects, to “recognise him for his advocacy, activism and outstanding contribution to the architecture profession”.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Canberra Modern are thrilled to have Tim as our Patron and look forward to many years of collaboration and celebration of the rich mid-century character of our National Capital.&nbsp;</p>
+<!-- /wp:paragraph -->
+</div>

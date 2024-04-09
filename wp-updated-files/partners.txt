@@ -1,0 +1,115 @@
+<div class="partners">
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">University House</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://img1.wsimg.com/isteam/ip/713b0fb1-3749-4859-97e2-b7cf5cfb344b/32b57910-f2f3-494c-9280-2ade15b43d55.png/:/rs=w:388,h:194,cg:true,m/cr=w:388,h:194" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>University House hosted Canberra Modern 2017 in its fantastic mid-century setting. Special thanks to the Master of the House, Peter Kanowski, Operations Manager, Matt Dowdney and UH Events Team for their assistance with the events. &nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a rel="noreferrer noopener" href="http://unihouse.anu.edu.au/" target="_blank">FIND OUT MORE</a></p>
+<!-- /wp:paragraph -->
+</div>
+
+<div class="partners">
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Design Institute of Australia</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://img1.wsimg.com/isteam/ip/713b0fb1-3749-4859-97e2-b7cf5cfb344b/3e2e09e3-e70d-4002-81f9-b39e05bf3219.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:388,h:194,cg:true" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The Design Institute's vision is to raise awareness and increase the profile of the design profession within the community. They want to establish the ACT as an epicentre of design innovation and creativity - where the contribution of leading ACT designers is recognised.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a rel="noreferrer noopener" href="https://www.design.org.au/actbranchoverview/act-branch-overview/act" target="_blank">FIND OUT MORE</a></p>
+<!-- /wp:paragraph -->
+</div>
+
+<div class="partners">
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Australia ICOMOS</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://img1.wsimg.com/isteam/ip/713b0fb1-3749-4859-97e2-b7cf5cfb344b/f9b16513-8bdd-416b-a613-caa3a5dd5397.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:388,h:194,cg:true" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The International Council on Monuments and Sites (ICOMOS) is an association of heritage practitioners throughout the world, dedicated to the conservation of the world’s cultural heritage.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a rel="noreferrer noopener" href="http://australia.icomos.org/" target="_blank">FIND OUT MORE</a></p>
+<!-- /wp:paragraph -->
+</div>
+
+<div class="partners">
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">GML Heritage</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://img1.wsimg.com/isteam/ip/713b0fb1-3749-4859-97e2-b7cf5cfb344b/GML%20Logo%20Small.JPG/:/rs=w:388,h:194,cg:true,m/cr=w:388,h:194" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>For over twenty-five&nbsp;years GML has been at the forefront of heritage consulting. With offices in Sydney and Canberra and a team of over forty industry leaders and experienced professionals.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Award-winning services include Aboriginal heritage, archaeology, the built environment, cultural landscapes, public history, community engagement and interpretation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a rel="noreferrer noopener" href="http://www.gml.com.au/" target="_blank">FIND OUT MORE</a></p>
+<!-- /wp:paragraph -->
+</div>
+
+<div class="partners">
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">The Mill Architecture and Design</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://img1.wsimg.com/isteam/ip/713b0fb1-3749-4859-97e2-b7cf5cfb344b/Logo%20Combined.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:388,h:194,cg:true" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The Mill Architecture and Design is a Canberra based full service design firm specialising in &nbsp;single and multi-unit residential, commercial office, retail fit outs and government space planning with a specialised approach of passive, sustainable design.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>They focus on transparent client relationships, long-term sustainability, and cost-effective service to provide clients with designs that are fully considered from all angles, and are the most efficient, economical and pleasing resolution for a design.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a rel="noreferrer noopener" href="https://www.themilldesign.com.au/" target="_blank">FIND OUT MORE</a></p>
+<!-- /wp:paragraph -->
+</div>
+
+<div class="partners">
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">The Australian Insititute of Architects</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://img1.wsimg.com/isteam/ip/713b0fb1-3749-4859-97e2-b7cf5cfb344b/Logo-Institute_B2.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:388,h:194,cg:true" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The Australian Institute of Architects is the peak body for the architectural profession in Australia, representing 11,000 members. The Institute works to improve our built environment by promoting quality, responsible, sustainable design. Through its members, the Institute plays a major role in shaping Australia's future&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a rel="noreferrer noopener" href="http://www.architecture.com.au/events/state-territory/act-chapter" target="_blank">FIND OUT MORE</a></p>
+<!-- /wp:paragraph -->
+</div>
