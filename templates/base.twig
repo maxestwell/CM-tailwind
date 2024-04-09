@@ -9,7 +9,7 @@
 <header class="header">
 	{% block header %}
 		<div class="wrapper">
-			<h1 class="hdr-logo text-center py-3 hover:underline" role="banner">
+			<h1 class="hdr-logo text-center mb-20 hover:underline" role="banner">
 				<a class="hdr-logo-link text-2xl" href="{{site.url}}" rel="home">{{site.name}}</a>
 			</h1>
 			<nav id="nav-main" class="nav-main  py-5 border-t border-black" role="navigation">
@@ -23,7 +23,7 @@
 <section id="content" role="main" class="content-wrapper">
 	{% if title %}
 		<!-- this title comes from the base.twig file -->
-		<h1 class="text-5xl text-center py-3">{{title}}</h1>
+		<h1 class="text-5xl text-center mb-20">{{title}}</h1>
 	{% endif %}
 	<div class="wrapper grid justify-center">
 		{% block content %}
