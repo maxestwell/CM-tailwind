@@ -539,8 +539,11 @@ video {
     max-width: 1536px;
   }
 }
-.h2{
+.h2 {
   font-weight: 700;
+}
+.mb-5 {
+  margin-bottom: 1rem;
 }
 .my-3 {
   margin-top: 0.75rem;
@@ -555,6 +558,10 @@ video {
 .mx-3{
   margin-left: 0.75rem;
   margin-right: 0.75rem;
+}
+.mx-20{
+  margin-left: 5rem;
+  margin-right: 5rem;
 }
 .block {
   display: block;
@@ -709,4 +716,29 @@ video {
 .pagination{
   text-align: center;
 }
+.wp-block-image{
+  width: 100%;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
 
+.wp-block-embed,
+.wp-block-image img{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.wp-block-heading h4{
+  font-weight: 700;
+  padding-top: 1rem;
+}
+
+.wp-block-heading a:hover{
+  text-decoration: underline;
+}
