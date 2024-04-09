@@ -539,6 +539,9 @@ video {
     max-width: 1536px;
   }
 }
+.h2{
+  font-weight: 700;
+}
 .my-3 {
   margin-top: 0.75rem;
   margin-bottom: 0.75rem;
@@ -548,6 +551,10 @@ video {
 }
 .mt-20 {
   margin-top: 5rem;
+}
+.mx-3{
+  margin-left: 0.75rem;
+  margin-right: 0.75rem;
 }
 .block {
   display: block;
@@ -608,6 +615,10 @@ video {
   padding-top: 0px;
   padding-bottom: 0px;
 }
+.py-3{
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
 .py-10 {
   padding-top: 2.5rem;
   padding-bottom: 2.5rem;
@@ -630,12 +641,9 @@ video {
 }
 .text-right {
   text-align: right;
-<<<<<<< Updated upstream
-=======
 }
 .font-custom {
   font-family: Courier New, monospace;
->>>>>>> Stashed changes
 }
 .text-2xl {
   font-size: 1.5rem;
@@ -694,8 +702,11 @@ video {
 
 .group:hover .group-hover\:visible {
   visibility: visible;
-<<<<<<< Updated upstream
 }
-=======
+.paginationBTN{
+  display: inline-block;
 }
->>>>>>> Stashed changes
+.pagination{
+  text-align: center;
+}
+
