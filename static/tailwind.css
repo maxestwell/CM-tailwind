@@ -10,3 +10,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.wp-block-image img {
+  width: 20%;
+}
+
+.partner {
+  background-color: red;
+  margin-bottom: 20px;
+}
+
+.about-content {
+  background-color: red;
+  margin-bottom: 20px;
+}

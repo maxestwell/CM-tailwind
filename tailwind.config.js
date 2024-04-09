@@ -21,9 +21,9 @@ module.exports = {
       },
       fontFamily: {
         //font files are declared in html-header.twig file
-        sans: ['"Inria Sans"', "sans-serif"],
-        custom: ["Courier New", "monospace"],
-        // area_variable: ["area-variable", "sans-serif"],
+        // sans: ['"Inria Sans"', "sans-serif"],
+        // custom: ["Courier New", "monospace"],
+        sans: ["area-variable", "sans-serif"],
       },
     },
   },

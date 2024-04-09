@@ -47,7 +47,7 @@ html,
   -moz-tab-size: 4; /* 3 */
   -o-tab-size: 4;
      tab-size: 4; /* 3 */
-  font-family: "Inria Sans", sans-serif; /* 4 */
+  font-family: area-variable, sans-serif; /* 4 */
   font-feature-settings: normal; /* 5 */
   font-variation-settings: normal; /* 6 */
   -webkit-tap-highlight-color: transparent; /* 7 */
@@ -539,9 +539,6 @@ video {
     max-width: 1536px;
   }
 }
-h2{
-  font-weight: 700;
-}
 .my-3 {
   margin-top: 0.75rem;
   margin-bottom: 0.75rem;
@@ -557,6 +554,9 @@ h2{
 }
 .grid {
   display: grid;
+}
+.hidden {
+  display: none;
 }
 .h-full {
   height: 100%;
@@ -612,10 +612,6 @@ h2{
   padding-top: 2.5rem;
   padding-bottom: 2.5rem;
 }
-.py-3 {
-  padding-top: 0.75rem;
-  padding-bottom: 0.75rem;
-}
 .py-5 {
   padding-top: 1.25rem;
   padding-bottom: 1.25rem;
@@ -632,9 +628,6 @@ h2{
 .text-center {
   text-align: center;
 }
-.font-custom {
-  font-family: Courier New, monospace;
-}
 .text-2xl {
   font-size: 1.5rem;
   line-height: 2rem;
@@ -646,34 +639,50 @@ h2{
 .font-\[550\] {
   font-weight: 550;
 }
+
+.wp-block-image img {
+  width: 20%;
+}
+
+.partner {
+  background-color: red;
+  margin-bottom: 20px;
+}
+
+.about-content {
+  background-color: red;
+  margin-bottom: 20px;
+}
+
 .\*\:mx-20 > * {
   margin-left: 5rem;
   margin-right: 5rem;
 }
+
 .first\:flex:first-child {
   display: flex;
 }
+
 .first\:place-content-around:first-child {
   place-content: space-around;
 }
+
 .first\:font-bold:first-child {
   font-weight: 700;
 }
+
 .\*\:even\:invisible:nth-child(even) > * {
   visibility: hidden;
 }
+
 .hover\:border-b:hover {
   border-bottom-width: 1px;
 }
+
 .hover\:underline:hover {
   text-decoration-line: underline;
 }
+
 .group:hover .group-hover\:visible {
   visibility: visible;
-}
-.paginationBTN{
-  display: inline-block;
-}
-.pagination{
-  text-align: center;
 }
