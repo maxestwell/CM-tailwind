@@ -3,7 +3,7 @@
 		<h2 class="h2">
 			<a href="{{post.link}}">{{post.title}}</a>
 		</h2>
-		<p>{{ post.excerpt({ words:10, read_more: "Keep reading &rarr;" }) }}</p>
+		<p>{{ post.excerpt({ words:15, read_more: "<div><span class='hover:underline'>Keep reading &rarr;</span></div>" }) }}</p>
 	</p>
 	{% if post.thumbnail %}
 		<img src="{{post.thumbnail.src}}"/>

@@ -1,15 +1,16 @@
 {# TEMPLATE: DEFAULT PAGE #}
+{# Page Content #}
 
 {% extends "base.twig" %}
 
 {% block content %}
-	<div class="content-wrapper test">
+	<div class="content-wrapper page">
 
 
-		<article class="post-type-{{post.post_type}}" id="post-{{post.ID}}">
+		<article class="post-type-{{post.post_type}} text-center" id="post-{{post.ID}}">
 			<section class="article-content">
-				<h1 class="article-h1 text-5xl text-center">{{post.title}}</h1>
-				<div class="article-body wp-block-heading text-center">
+				<h1 class="article-h1 text-5xl text-center mb-20">{{post.title}}</h1>
+				<div class="article-body wp-block-heading first:font-bold">
 					{{post.content}}
 					<p class="p text-right">
 				</div>
