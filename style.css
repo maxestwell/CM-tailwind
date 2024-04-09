@@ -47,7 +47,7 @@ html,
   -moz-tab-size: 4; /* 3 */
   -o-tab-size: 4;
      tab-size: 4; /* 3 */
-  font-family: area-variable, sans-serif; /* 4 */
+  font-family: "Inria Sans", sans-serif; /* 4 */
   font-feature-settings: normal; /* 5 */
   font-variation-settings: normal; /* 6 */
   -webkit-tap-highlight-color: transparent; /* 7 */
@@ -547,6 +547,9 @@ video {
   margin-top: 0.75rem;
   margin-bottom: 0.75rem;
 }
+.mb-10 {
+  margin-bottom: 2.5rem;
+}
 .mb-20 {
   margin-bottom: 5rem;
 }
@@ -612,10 +615,6 @@ video {
   padding-top: 0px;
   padding-bottom: 0px;
 }
-.py-10 {
-  padding-top: 2.5rem;
-  padding-bottom: 2.5rem;
-}
 .py-5 {
   padding-top: 1.25rem;
   padding-bottom: 1.25rem;
@@ -634,6 +633,9 @@ video {
 }
 .text-right {
   text-align: right;
+}
+.font-custom {
+  font-family: Courier New, monospace;
 }
 .text-2xl {
   font-size: 1.5rem;
@@ -654,11 +656,6 @@ video {
 .about,
 .partners,
 .supporters {
-  background-color: red;
-  margin-bottom: 20px;
-}
-
-.about-content {
   background-color: red;
   margin-bottom: 20px;
 }
