@@ -589,6 +589,9 @@ video {
 .justify-center {
   justify-content: center;
 }
+.gap-10 {
+  gap: 2.5rem;
+}
 .border-t {
   border-top-width: 1px;
 }
@@ -599,10 +602,6 @@ video {
 .border-gray-900 {
   --tw-border-opacity: 1;
   border-color: rgb(17 24 39 / var(--tw-border-opacity));
-}
-.bg-debug {
-  --tw-bg-opacity: 1;
-  background-color: rgb(255 202 40 / var(--tw-bg-opacity));
 }
 .object-cover {
   -o-object-fit: cover;
