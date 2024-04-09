@@ -15,7 +15,9 @@
   width: 20%;
 }
 
-.partner {
+.about,
+.partners,
+.supporters {
   background-color: red;
   margin-bottom: 20px;
 }
