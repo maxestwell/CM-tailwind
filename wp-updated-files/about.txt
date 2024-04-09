@@ -56,7 +56,7 @@
 
 <div class="about">
 <!-- wp:heading {"level":4} -->
-<h4>Our Patron - Tim Ross</h4>
+<h4>Our Patron</h4>
 <!-- /wp:heading -->
 
 <!-- wp:image -->

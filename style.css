@@ -649,7 +649,7 @@ video {
 }
 
 .wp-block-image img {
-  width: 20%;
+  width: 80%;
 }
 
 .about,
@@ -670,10 +670,6 @@ video {
 
 .first\:place-content-around:first-child {
   place-content: space-around;
-}
-
-.first\:font-bold:first-child {
-  font-weight: 700;
 }
 
 .\*\:even\:invisible:nth-child(even) > * {
