@@ -630,6 +630,12 @@ video {
 }
 .text-right {
   text-align: right;
+<<<<<<< Updated upstream
+=======
+}
+.font-custom {
+  font-family: Courier New, monospace;
+>>>>>>> Stashed changes
 }
 .text-2xl {
   font-size: 1.5rem;
@@ -688,4 +694,8 @@ video {
 
 .group:hover .group-hover\:visible {
   visibility: visible;
+<<<<<<< Updated upstream
 }
+=======
+}
+>>>>>>> Stashed changes
