@@ -639,6 +639,12 @@ video {
 .text-center {
   text-align: center;
 }
+.text-right {
+  text-align: right;
+}
+.font-custom {
+  font-family: Courier New, monospace;
+}
 .text-2xl {
   font-size: 1.5rem;
   line-height: 2rem;
@@ -703,3 +709,4 @@ video {
 .pagination{
   text-align: center;
 }
+
