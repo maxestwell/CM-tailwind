@@ -2,6 +2,7 @@
 {# Menu Items#}
 
 {% if menu %}
+<<<<<<< Updated upstream
 	<ul class="hidden lg:first:flex lg:first:place-content-around lg:*:even:invisible lg:li:a:visible lg:text-center lg:pt-1 lg:pb-1 lg:visible">
 		{% for item in items %}
 			<li class="{{ item.classes | join(' ') }} group">
@@ -15,6 +16,19 @@
 						{% endfor %}
 					</ul>
 				{% endif %}				
+=======
+	<ul class="text-xs first:flex first:place-content-around *:even:invisible li:a:visible text-center pt-1 pb-1 md:text-base">
+		{% for item in items %}
+			<li class="{{ item.classes | join(' ') }} px-12 pt-10 group border-l border-gray md:p-0 md:border-0">
+				<a class="group-hover:visible hover:border-b border-gray-400 hover:underline font-bold" target="{{ item.target }}" href="{{ item.link }}">{{ item.title }}</a>
+				<ul class="first:flex first:place-content-around md:*:even:invisible li:a:visible text-center pt-1 pb-1">
+					{% for child in item.children %}
+						<li class="{{ child.classes | join(' ') }} group pt-4">
+							<a class="group-hover:visible hover:border-b border-gray-900 hover:underline " target="{{ child.target }}" href="{{ child.link }}">{{ child.title }}</a>
+						</li>
+					{% endfor %}
+				</ul>
+>>>>>>> Stashed changes
 			</li>
 		{% endfor %}
 	</ul>
