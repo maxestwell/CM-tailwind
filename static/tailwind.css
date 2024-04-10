@@ -12,12 +12,12 @@
 @tailwind utilities;
 
 .wp-block-image img {
-  width: 80%;
+  width: 100%;
 }
 
 .about,
 .partners,
 .supporters {
-  background-color: red;
+  /* background-color: red; */
   margin-bottom: 20px;
 }
