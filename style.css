@@ -689,3 +689,19 @@ video {
 .group:hover .group-hover\:visible {
   visibility: visible;
 }
+
+.wp-block-image img{
+  width: 100%;
+}
+
+.article-content{
+margin: 5rem;
+}
+
+blockquote, dl, dd, hr, figure, p, pre {
+  margin-top: 1.5em;
+}
+
+blockquote, dl, dd, hr, figure, pre {
+  margin: 2em;
+}
