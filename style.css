@@ -698,10 +698,10 @@ video {
 margin: 5rem;
 }
 
-blockquote, dl, dd, hr, figure, p, pre {
+blockquote, dl, dd, figure, p, pre {
   margin-top: 1.5em;
 }
 
-blockquote, dl, dd, hr, figure, pre {
+blockquote, dl, dd, figure, pre {
   margin: 2em;
 }
