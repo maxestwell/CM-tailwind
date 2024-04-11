@@ -539,6 +539,35 @@ video {
     max-width: 1536px;
   }
 }
+.static {
+  position: static;
+}
+.fixed {
+  position: fixed;
+}
+.absolute {
+  position: absolute;
+}
+.relative {
+  position: relative;
+}
+.-inset-10 {
+  inset: -2.5rem;
+}
+.inset-10 {
+  inset: 2.5rem;
+}
+.inset-20 {
+  inset: 5rem;
+}
+.inset-y-20 {
+  top: 5rem;
+  bottom: 5rem;
+}
+.inset-y-40 {
+  top: 10rem;
+  bottom: 10rem;
+}
 .mx-3 {
   margin-left: 0.75rem;
   margin-right: 0.75rem;
@@ -553,14 +582,20 @@ video {
 .mb-20 {
   margin-bottom: 5rem;
 }
-.mt-20 {
-  margin-top: 5rem;
-}
 .mt-10 {
   margin-top: 2.5rem;
 }
+.mt-20 {
+  margin-top: 5rem;
+}
+.mr-40 {
+  margin-right: 10rem;
+}
 .block {
   display: block;
+}
+.flex {
+  display: flex;
 }
 .grid {
   display: grid;
@@ -592,12 +627,6 @@ video {
 .justify-center {
   justify-content: center;
 }
-.gap-10 {
-  gap: 2.5rem;
-}
-.gap-6 {
-  gap: 1.5rem;
-}
 .gap-4 {
   gap: 1rem;
 }
@@ -619,6 +648,12 @@ video {
 .p-8 {
   padding: 2rem;
 }
+.p-10 {
+  padding: 2.5rem;
+}
+.p-20 {
+  padding: 5rem;
+}
 .py-0 {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -626,6 +661,10 @@ video {
 .py-5 {
   padding-top: 1.25rem;
   padding-bottom: 1.25rem;
+}
+.py-10 {
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
 }
 .pb-1 {
   padding-bottom: 0.25rem;
@@ -635,6 +674,15 @@ video {
 }
 .pt-1 {
   padding-top: 0.25rem;
+}
+.pr-40 {
+  padding-right: 10rem;
+}
+.pr-60 {
+  padding-right: 15rem;
+}
+.pr-80 {
+  padding-right: 20rem;
 }
 .text-center {
   text-align: center;
