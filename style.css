@@ -744,3 +744,7 @@ video {
 .group:hover .group-hover\:visible {
   visibility: visible;
 }
+
+blockquote, dl, dd, figure, pre {
+  margin-top: 1em;
+}
