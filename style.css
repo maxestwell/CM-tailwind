@@ -747,4 +747,22 @@ video {
 
 blockquote, dl, dd, figure, pre {
   margin-top: 1em;
+  margin-bottom: 1em;
 }
+
+h4.wp-block-heading{
+  font-size: 20px;
+  font-weight: 700;
+  padding-top: 1rem;
+}
+
+a {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+a.read-more {
+  font-size: 16px;
+}
+
+
