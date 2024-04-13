@@ -750,7 +750,7 @@ blockquote, dl, dd, figure, pre {
   margin-bottom: 1em;
 }
 
-h4.wp-block-heading{
+h4.wp-block-heading, h3.wp-block-heading {
   font-size: 20px;
   font-weight: 700;
   padding-top: 1rem;
@@ -764,5 +764,3 @@ a {
 a.read-more {
   font-size: 16px;
 }
-
-
