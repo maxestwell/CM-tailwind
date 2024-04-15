@@ -213,7 +213,7 @@ button,
 [type='button'],
 [type='reset'],
 [type='submit'] {
-  -webkit-appearance: button; /* 1 */
+  /* 1 */
   background-color: transparent; /* 2 */
   background-image: none; /* 2 */
 }
@@ -257,7 +257,7 @@ Correct the cursor style of increment and decrement buttons in Safari.
 */
 
 [type='search'] {
-  -webkit-appearance: textfield; /* 1 */
+  /* 1 */
   outline-offset: -2px; /* 2 */
 }
 
@@ -388,7 +388,7 @@ iframe,
 embed,
 object {
   display: block; /* 1 */
-  vertical-align: middle; /* 2 */
+ /* 2 */
 }
 
 /*
@@ -582,9 +582,6 @@ video {
 .mb-20 {
   margin-bottom: 5rem;
 }
-.mt-10 {
-  margin-top: 2.5rem;
-}
 .mt-20 {
   margin-top: 5rem;
 }
@@ -593,9 +590,6 @@ video {
 }
 .block {
   display: block;
-}
-.flex {
-  display: flex;
 }
 .grid {
   display: grid;
@@ -627,9 +621,6 @@ video {
 .justify-center {
   justify-content: center;
 }
-.gap-4 {
-  gap: 1rem;
-}
 .border-t {
   border-top-width: 1px;
 }
@@ -640,6 +631,10 @@ video {
 .border-gray-900 {
   --tw-border-opacity: 1;
   border-color: rgb(17 24 39 / var(--tw-border-opacity));
+}
+.bg-debug {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 202 40 / var(--tw-bg-opacity));
 }
 .object-cover {
   -o-object-fit: cover;
@@ -712,8 +707,32 @@ video {
 .about,
 .partners,
 .supporters {
-  /* background-color: red; */
+  background-color: red;
   margin-bottom: 20px;
+}
+
+.partners {
+  display: flex;
+  flex-direction: column;
+}
+
+.partners h4 {
+  text-transform: uppercase;
+}
+
+h4 {
+  padding-bottom: 20px;
+}
+
+p {
+  padding-bottom: 20px;
+}
+
+.post-type-buildings img {
+  width: 400px;
+  height: 300px;
+  -o-object-fit: fill;
+     object-fit: fill;
 }
 
 .\*\:mx-20 > * {
@@ -727,6 +746,10 @@ video {
 
 .first\:place-content-around:first-child {
   place-content: space-around;
+}
+
+.first\:font-bold:first-child {
+  font-weight: 700;
 }
 
 .\*\:even\:invisible:nth-child(even) > * {
@@ -743,28 +766,4 @@ video {
 
 .group:hover .group-hover\:visible {
   visibility: visible;
-}
-
-blockquote, dl, dd, figure, pre {
-  margin-top: 1em;
-  margin-bottom: 1em;
-}
-
-h4.wp-block-heading, h3.wp-block-heading {
-  font-size: 20px;
-  font-weight: 700;
-  padding-top: 1rem;
-}
-
-a {
-    font-size: 18px;
-    font-weight: 700;
-}
-
-a:hover{
-  text-decoration: underline;
-}
-
-a.read-more {
-  font-size: 16px;
 }

@@ -106,7 +106,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>The Australian Institute of Architects is the peak body for the architectural profession in Australia, representing 11,000 members. The Institute works to improve our built environment by promoting quality, responsible, sustainable design. Through its members, the Institute plays a major role in shaping Australia's future&nbsp;</p>
+<p>The Australian Institute of Architects is the peak body for the architectural profession in Australia, representing 11,000 members. The Institute works to improve our built environment by promoting quality, responsible, sustainable design. Through its members, the Institute plays a major role in shaping Australia's future.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

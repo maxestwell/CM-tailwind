@@ -12,12 +12,35 @@
 @tailwind utilities;
 
 .wp-block-image img {
-  width: 100%;
+  width: 20%;
 }
 
 .about,
 .partners,
 .supporters {
-  /* background-color: red; */
+  background-color: red;
   margin-bottom: 20px;
+}
+
+.partners {
+  display: flex;
+  flex-direction: column;
+}
+
+.partners h4 {
+  text-transform: uppercase;
+}
+
+h4 {
+  padding-bottom: 20px;
+}
+
+p {
+  padding-bottom: 20px;
+}
+
+.post-type-buildings img {
+  width: 400px;
+  height: 300px;
+  object-fit: fill;
 }
