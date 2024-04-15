@@ -1,46 +1,53 @@
 Documentation – Rocco Leung u3242958
 
 Individual Contribution 
-My overall contribution includes styling the galleries page and revising certain formatting with added feedback on actions. On a separate branch: ‘changes-rocco’ include changes
-that committed to the galleries page, these changes were done on the 10th of April, these include lines 693-707 down below. Changes made too master committed by Max were added April 11th.
-These changes include image size alteration, use of margin to condense the images to the centre and spacing between the first image and image grid. Some of these changes are present on the ‘master’ branch
-include lines 701-703 present on branch ‘changes-rocco’ to 748-751 on ‘master’. These changes add margin to the grid, separating from the block-image at the top of the page. Main difference between branches
-is space inclusion of a grid wrapper to fixed centre position, whilst margin condenses content to the centre, however pushing content, changing the format of the original grid. Inclusion of a grid container 
-resolves this issue whilst maintaining the format present on the current site. Together these branches have been merged, with the improvements of Max’s grid format changes that create the galleries page.
+My overall contribution includes styling the galleries page and revising certain formatting with added feedback on actions. On a separate branch:
+‘changes-rocco’ include changesthat committed to the galleries page, these changes were done on the 10th of April, these include lines 693-707 down below.
+Changes made too master committed by Max were added April 11th.These changes include image size alteration, use of margin to condense the images to the centre
+and spacing between the first image and image grid. Some of these changes are present on the ‘master’ branchinclude lines 701-703 present on branch ‘changes-rocco’
+to 748-751 on ‘master’. These changes add margin to the grid, separating from the block-image at the top of the page. Main difference between branches
+is space inclusion of a grid wrapper to fixed centre position, whilst margin condenses content to the centre, however pushing content, changing the format of
+the original grid. Inclusion of a grid container resolves this issue whilst maintaining the format present on the current site. Together these branches have
+been merged, with the improvements of Max’s grid format changes that create the galleries page.
 
- 
-The code bellow are all changes made to the style.css present on the master branch. Lines 824-829 add size, weight and padding to subheadings. This adds hierarchy to the page and help separate
-information into distinguished and digestible chunks. Lines 831-842 are changes to clickable links. Links have been increased font weight, with improved feedback. Some minor changes, include formatting
-and positioning. Margin bottom and margin top added on the header present on line 553-558. Margin top and bottom were added to the footer in an earlier version (green) however, these changes have since been
+
+
+The code bellow are all changes made to the style.css present on the master branch. Lines 824-829 add size, weight and padding to subheadings. This adds hierarchy
+to the page and help separate information into distinguished and digestible chunks. Lines 831-842 are changes to clickable links. Links have been increased
+font weight, with improved feedback. Some minor changes, include formatting and positioning. Margin bottom and margin top added on the header present on
+line 553-558. Margin top and bottom were added to the footer in an earlier version (green) however, these changes have since been
 revised of a redesign by Max (red). 
  
 
  
 
-In a personal reflection, most changes are changing of format and collaboration to create the Gallery page. I believe I struggled in class creation and placement of information; my familiarity of tailwind
-CSS affected the amount of contribution within the site itself. Nested items within wordpress were difficult to grasp, as content was difficult to alter and, in a sense, felt restricting. These included 
-images, p tags and divisions/containers separating content within the page. I believe the changes present on the site have done a good job of separating the information with addition of padding and 
-margin around p tags and page dividers <hr> class. Whereas team communication remained minimal until just before the due date, which may have affected job and page assignments. Additionally the twig
+In a personal reflection, most changes are changing of format and collaboration to create the Gallery page. I believe I struggled in class creation and placement
+of information; my familiarity of tailwind CSS affected the amount of contribution within the site itself. Nested items within wordpress were difficult to grasp,
+as content was difficult to alter and, in a sense, felt restricting. These included images, p tags and divisions/containers separating content within the page. I
+believe the changes present on the site have done a good job of separating the information with addition of padding and margin around p tags and page dividers 
+<hr> class. Whereas team communication remained minimal until just before the due date, which may have affected job and page assignments. Additionally the twig
 files, would target multiple sites, therefore I had to check that my changes made no interferences with pages with the shared file, in this case page.twig. 
 
 Issue Resolution
-Many challenges were found within the process of the website. Our team initially struggled with the setup and implementation of tailwind CSS. First challenge our team faced was the implementation
-on the drop-down menu located in menu.twig. This included creating parenting and child elements, which link the elements on hover. Joshua, the one assigned to the navigation menu, with the help of the 
-tutor within tutorials, developed the <ul> class.
+Many challenges were found within the process of the website. Our team initially struggled with the setup and implementation of tailwind CSS. First challenge
+our team faced was the implementationon the drop-down menu located in menu.twig. This included creating parenting and child elements, which link the elements 
+on hover. Joshua, the one assigned to the navigation menu, with the help of the tutor within tutorials, developed the <ul> class.
 
-This code acts as the parent class and container.  Additionally, the children classes act as parent classes. This includes line 7, 9, 11. Lines 8 and 9 have nested child elements 
-which include the links marked as item and child target. 
+This code acts as the parent class and container.  Additionally, the children classes act as parent classes. This includes line 7, 9, 11. Lines 8 and 9 have
+nested child elements which include the links marked as item and child target. 
 
-Initially while working on the galleries page, I found difficulty in targeting content, and creating divisions. This may be because I lacked a clear understanding of content nested within the IDs.
-These ids contain the info from the given WordPress, which I realise after the completion of the galleries page in collaboration with Max. I believe that I have reached a somewhat basic understanding of
-tailwind CSS, where classes are styled within the class. I am still unsure how to target specific pages with nested elements without affecting the other. The limited time and use of the framework provided 
-by WordPress have greatly affected my learning of the framework.
+Initially while working on the galleries page, I found difficulty in targeting content, and creating divisions. This may be because I lacked a clear understanding
+of content nested within the IDs. These ids contain the info from the given WordPress, which I realise after the completion of the galleries page in collaboration
+with Max. I believe that I have reached a somewhat basic understanding oftailwind CSS, where classes are styled within the class. I am still unsure how to target
+specific pages with nested elements without affecting the other. The limited time and use of the framework provided by WordPress have greatly affected my
+learning of the framework.
 
 Team Collaboration
 
-Overall, most work was done within our own time. Role assignment was not directly appointed by a group leader but chosen as individual members. To avoid overlap a spreadsheet was created containing
-each of the pages, this spread sheet included a colour coordination system assigned by our names. Our communication outside of class was limited with some updates sent by each of the group members, whilst
-majority of the work only started towards the final week leading up to the assignment. A day before due, we joined each joined a call, discussing progress, final changes, branch merging and submission. Each
+Overall, most work was done within our own time. Role assignment was not directly appointed by a group leader but chosen as individual members. 
+To avoid overlap a spreadsheet was created containing each of the pages, this spread sheet included a colour coordination system assigned by our names.
+Our communication outside of class was limited with some updates sent by each of the group members, whilst majority of the work only started towards the final 
+week leading up to the assignment. A day before due, we joined each joined a call, discussing progress, final changes, branch merging and submission. Each
 of us had own individual branches separate from the master. Ryan has merged these branches together, whilst touching up the format. 
 
 References
