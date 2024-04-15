@@ -21,3 +21,12 @@
   /* background-color: red; */
   margin-bottom: 20px;
 }
+
+.partners {
+  display: flex;
+  flex-direction: column;
+}
+
+.partners h4 {
+  text-transform: uppercase;
+}
