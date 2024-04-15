@@ -656,6 +656,36 @@ video {
   margin-bottom: 20px;
 }
 
+<<<<<<< Updated upstream
+=======
+.partners {
+  display: flex;
+  flex-direction: column;
+}
+
+.partners h4 {
+  text-transform: uppercase;
+}
+
+h4 {
+  padding-bottom: 20px;
+}
+
+p {
+  padding-bottom: 20px;
+}
+
+.post-type-buildings {
+}
+
+.post-type-buildings img {
+  width: 400px;
+  height: 300px;
+  -o-object-fit: fill;
+     object-fit: fill;
+}
+
+>>>>>>> Stashed changes
 .\*\:mx-20 > * {
   margin-left: 5rem;
   margin-right: 5rem;
