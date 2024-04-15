@@ -18,11 +18,8 @@
 .about,
 .partners,
 .supporters {
-  background-color: red;
   margin-bottom: 20px;
 }
-<<<<<<< Updated upstream
-=======
 
 .partners {
   display: flex;
@@ -49,4 +46,3 @@ p {
   height: 300px;
   object-fit: fill;
 }
->>>>>>> Stashed changes
