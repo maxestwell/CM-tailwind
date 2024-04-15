@@ -576,15 +576,9 @@ video {
   margin-top: 0.75rem;
   margin-bottom: 0.75rem;
 }
-
-.mt-10 {
-  margin-top: 2.5rem;
-  }
-  
-  .mb-10 {
-    margin-bottom: 2.5rem;
-    }
-    
+.mb-10 {
+  margin-bottom: 2.5rem;
+}
 .mb-20 {
   margin-bottom: 5rem;
 }
@@ -773,43 +767,3 @@ p {
 .group:hover .group-hover\:visible {
   visibility: visible;
 }
-
-.wp-block-image img{
-  width: 100%;
-}
-
-.article-content{
-margin: 5rem;
-}
-
-blockquote, dl, dd, figure, p, pre {
-  margin-top: 1.5em;
-}
-
-blockquote, dl, dd, figure, pre {
-  margin: 2em;
-}
-
-  blockquote, dl, dd, figure, p, pre {
-    margin-top: 1em;
-    margin-bottom: 1em;
-  }
-  
-  h4.wp-block-heading, h3.wp-block-heading{
-    font-size: 20px;
-    font-weight: 700;
-    padding-top: 1rem;
-  }
-  
-  a {
-    font-size: 18px;
-    font-weight: 700;
-  }
-  
-  a:hover{
-    text-decoration: underline;
-  }
-  
-  a.read-more{
-    font-size: 16px;
-  }
