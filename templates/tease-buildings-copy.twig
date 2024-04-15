@@ -1,7 +1,7 @@
 {# TEMPLATE: INDIVIDUAL BUILDING #}
 {# this is the single building that is looped through on the archive-buildings.twig file #}
 	<!-- <li class="max-w-3xl"> -->
-		<article class="tease tease-{{post.type}} py-0 max-w-3xl" id="tease-{{post.id}}"> {% block content %}
+		<article class="tease tease-{{post.type}}" id="tease-{{post.id}}"> {% block content %}
 
 		{% if post.thumbnail %}
 			<a href="{{post.link}}"><img src="{{post.thumbnail.src}}" class="w-full h-full object-cover"/> </a>

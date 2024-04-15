@@ -1,10 +1,8 @@
 {% extends "tease.twig" %}
 
 {% block content %}
-	<h2 class="h2">
-		<a href="{{post.link}}">{{ post.title }}</a>
-	</h2>
-	<p class="test">{{ post.excerpt({ words:15, read_more: "<div><span class='hover:underline'>Keep reading &rarr;</span></div>" }) }}</p>
+	<h2 class="font-bold" href="{{post.link}}">{{ post.title }}	</h2>
+	<div>{{ post.excerpt({ words:15, read_more: "<div><span class='hover:underline'>Keep reading &rarr;</span></div>" }) }}</div>
 	{% if post.thumbnail.src %}
 		<img src="{{ post.thumbnail.src }}"/>
 	{% endif %}
