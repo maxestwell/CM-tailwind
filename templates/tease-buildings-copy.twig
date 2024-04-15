@@ -1,14 +1,14 @@
 {# TEMPLATE: INDIVIDUAL BUILDING #}
 {# this is the single building that is looped through on the archive-buildings.twig file #}
 	<!-- <li class="max-w-3xl"> -->
-		<article class="tease tease-{{post.type}}" id="tease-{{post.id}}"> {% block content %}
-			<h2 class="h2 absolute w-28 text-xs p-1 bg-white">
-				<a href="{{post.link}}">{{post.title}}</a>
-			</h2>
-
-		{% if post.thumbnail %}
-			<a href="{{post.link}}"><img src="{{post.thumbnail.src}}" class="w-full h-full object-cover"/> </a>
-		{% endif %}
+<article class="tease tease-{{post.type}}" id="tease-{{post.id}}"> {% block content %}
+	<h2 class="h2 absolute w-28 text-xs m-1 bg-white">
+		<a href="{{post.link}}">{{post.title}}</a>
+	</h2>
+			
+	{% if post.thumbnail %}
+		<a href="{{post.link}}"><img src="{{post.thumbnail.src}}" class="w-full h-full object-cover"/> </a>
+	{% endif %}
 	{% endblock %}
 </article>
 <!-- </li> -->
